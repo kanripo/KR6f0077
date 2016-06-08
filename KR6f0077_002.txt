@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:28.535492
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:14
 #+TITLE: 觀無量壽佛經義疏
 #+PROPERTY: CBETA_ID T37n1754
 #+PROPERTY: ID KR6f0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1754
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0077_T_002-0285c> ¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 觀無量壽佛經義疏卷之中¶
+觀無量壽佛經義疏卷之中¶
 ¶
 劉宋西域三藏畺良耶舍譯¶
 西湖靈芝崇福寺釋元照述¶
@@ -134,7 +133,7 @@
 異道故言勝。因名比丘有三義。乞士怖魔破¶
 惡也。果號阿羅漢亦三義。應供殺賊無生也。¶
 梵語僧伽此翻為眾。四人已上和合無諍。羯¶
-磨說戒能辦一切滅惡生善之事故名為眾。¶
+磨說戒能辨一切滅惡生善之事故名為眾。¶
 千二百五十人即眷屬弟子。三迦葉共有弟¶
 子千人。目連身子共二百五十。其先竝是事¶
 火外道。久受勒苦都無所證。一見如來便登¶

@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:28.573908
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:14
 #+TITLE: 觀無量壽佛經義疏
 #+PROPERTY: CBETA_ID T37n1754
 #+PROPERTY: ID KR6f0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1754
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0077_T_003-0294a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
-
- 觀無量壽佛經義疏卷下¶
+觀無量壽佛經義疏卷下¶
 ¶
 劉宋西域三藏畺良耶舍譯¶
 西湖靈芝崇福寺釋元照述¶
@@ -1309,7 +1308,7 @@
 台十疑論云。初心菩薩未得無生忍。要須¶
 不離佛。又引智度論曰。具縛凡夫有大悲¶
 心。願生惡世救苦眾生。無有是處。譬如¶
-嬰兒不離母弱羽可傅枝矣。於是棄擲平¶
+嬰兒不離母弱羽可傳枝矣。於是棄擲平¶
 生之所業。博尋西方教二十餘年。作疏為¶
 贊勉誘來者。此疏其一也。師諱元照。字¶
 湛如。自號安忍子。若其道德高輝敷映。僧¶
